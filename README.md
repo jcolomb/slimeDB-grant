@@ -11,9 +11,11 @@ sharing is caring
 
 still no answer about liability when using CC-BY licenses
 
-1. recipe not copyrightable in the US
+1. recipe not copyrightable in the US, not in France
 
 http://www.thefoodgeek.com/blog/2008/11/22/who-owns-that-recipe.html?rq=owns
+https://www.copyrightlaws.com/copyright-protection-recipes/
+https://www.planete-cuisine.com/encyclopedies/show/10/recettes-droit-d-auteure-copyright-et-propriete-intellectuelle
 
 
-Note the database would be, not each separate recipe.
+Note: the database would be, not each separate recipe.
